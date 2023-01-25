@@ -1,0 +1,28 @@
+{
+    "succulents":[
+        {
+            "name" : "Echeveria Elegans",
+            "image" : "https://www.google.com/url?sa=i&url=http%3A%2F%2Ft0.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcRg7Gtdf-tr5-2n66xV8q8geB69RHV--SVq3Jv-U3e0HfHwnX0GwFpxP8mAqPHIMkNWLGIktQRfchH3t28&psig=AOvVaw03iu7mJdX1pm5igmM63e1c&ust=1673736474340000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMC8yrHQxfwCFQAAAAAdAAAAABAE"
+        },
+        {
+            "name" : "Burro's Tail",
+            "image" : "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcS8Y9w1MLrXHt8c4k1XvkZno6lTFM8hVAOSzcncPFIAaSTeCj5rvfJu-HyfATxkDFQYPLeRyy6OTpuEyrU"
+        },
+        {
+            "name" : "Fasciated Haworthia",
+            "image" : "https://www.teakandterracotta.com/wp-content/uploads/2021/04/Haworthiopsis-Fasciata-1.jpg"
+        },
+        {
+            "name" : "Portulacaria Afra",
+            "image" : "https://m.media-amazon.com/images/I/51NfaGEh7cL._SL500_.jpg"
+        },
+        {
+            "name" : "Haworthia Cooperi",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/a/a8/1_Haworthia_cooperi_-_Kirstenbosch.jpg"
+        },
+        {
+            "name" : "Haworthia Cymbiformis",
+            "image" : "https://worldofsucculents.com/wp-content/uploads/2013/04/Haworthia-cymbiformis-Cathedral-Window-Haworthia1-1.jpg"
+        }
+    ]
+}
