@@ -1,5 +1,12 @@
 /* navbar styles --------------------------------------------------------------- */
-
+.navbar-nav {
+    white-space: nowrap;
+}
+.that-other-div {
+    display: flex;
+    width: 100%;
+    justify-content: space-between !important;
+}
 /* jumbotrun styles------------------------------------------------------------- */
 .jumbotron {
     display: flex;
